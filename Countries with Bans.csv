@@ -1,223 +1,223 @@
-Country,Ban,Code
-Afghanistan,0,AFG
-Albania,0,ALB
-Algeria,0,DZA
-American Samoa,0,ASM
-Andorra,0,AND
-Angola,0,AGO
-Anguilla,0,AIA
-Antigua and Barbuda,1,ATG
-Argentina,0,ARG
-Armenia,0,ARM
-Aruba,0,ABW
-Australia,0,AUS
-Austria,0,AUT
-Azerbaijan,0,AZE
-"""Bahamas, The""",0,BHM
-Bahrain,0,BHR
-Bangladesh,0,BGD
-Barbados,0,BRB
-Belarus,0,BLR
-Belgium,0,BEL
-Belize,0,BLZ
-Benin,0,BEN
-Bermuda,0,BMU
-Bhutan,0,BTN
-Bolivia,0,BOL
-Bosnia and Herzegovina,0,BIH
-Botswana,0,BWA
-Brazil,0,BRA
-British Virgin Islands,0,VGB
-Brunei,0,BRN
-Bulgaria,0,BGR
-Burkina Faso,1,BFA
-Burma,0,MMR
-Burundi,0,BDI
-Cabo Verde,0,CPV
-Cambodia,0,KHM
-Cameroon,0,CMR
-Canada,1,CAN
-Cayman Islands,0,CYM
-Central African Republic,0,CAF
-Chad,0,TCD
-Chile,0,CHL
-China,1,CHN
-Colombia,0,COL
-Comoros,0,COM
-"Congo, Democratic Republic of the",0,COD
-"Congo, Republic of the",0,COG
-Cook Islands,0,COK
-Costa Rica,1,CRI
-Cote d'Ivoire,0,CIV
-Croatia,0,HRV
-Cuba,0,CUB
-Curacao,0,CUW
-Cyprus,0,CYP
-Czech Republic,0,CZE
-Denmark,0,DNK
-Djibouti,0,DJI
-Dominica,0,DMA
-Dominican Republic,0,DOM
-Ecuador,0,ECU
-Egypt,0,EGY
-El Salvador,0,SLV
-Equatorial Guinea,0,GNQ
-Eritrea,0,ERI
-Estonia,0,EST
-Ethiopia,0,ETH
-Falkland Islands (Islas Malvinas),0,FLK
-Faroe Islands,0,FRO
-Fiji,1,FJI
-Finland,0,FIN
-France,1,FRA
-French Polynesia,0,PYF
-Gabon,0,GAB
-"Gambia, The",0,GMB
-Georgia,0,GEO
-Germany,0,DEU
-Ghana,0,GHA
-Gibraltar,0,GIB
-Greece,0,GRC
-Greenland,0,GRL
-Grenada,0,GRD
-Guam,0,GUM
-Guatemala,0,GTM
-Guernsey,0,GGY
-Guinea-Bissau,0,GNB
-Guinea,0,GIN
-Guyana,1,GUY
-Haiti,1,HTI
-Honduras,0,HND
-Hong Kong,0,HKG
-Hungary,0,HUN
-Iceland,0,ISL
-India,0,IND
-Indonesia,0,IDN
-Iran,0,IRN
-Iraq,0,IRQ
-Ireland,0,IRL
-Isle of Man,0,IMN
-Israel,1,ISR
-Italy,1,ITA
-Jamaica,0,JAM
-Japan,0,JPN
-Jersey,0,JEY
-Jordan,0,JOR
-Kazakhstan,0,KAZ
-Kenya,0,KEN
-Kiribati,0,KIR
-"Korea, North",0,PRK
-"Korea, South",1,KOR
-Kosovo,0,KSV
-Kuwait,0,KWT
-Kyrgyzstan,0,KGZ
-Laos,0,LAO
-Latvia,0,LVA
-Lebanon,0,LBN
-Lesotho,0,LSO
-Liberia,0,LBR
-Libya,0,LBY
-Liechtenstein,1,LIE
-Lithuania,0,LTU
-Luxembourg,0,LUX
-Macau,0,MAC
-Macedonia,0,MKD
-Madagascar,0,MDG
-Malawi,0,MWI
-Malaysia,0,MYS
-Maldives,0,MDV
-Mali,0,MLI
-Malta,1,MLT
-Marshall Islands,1,MHL
-Mauritania,0,MRT
-Mauritius,1,MUS
-Mexico,0,MEX
-"Micronesia, Federated States of",0,FSM
-Moldova,0,MDA
-Monaco,1,MCO
-Mongolia,0,MNG
-Montenegro,0,MNE
-Morocco,0,MAR
-Mozambique,0,MOZ
-Namibia,0,NAM
-Nepal,0,NPL
-Netherlands,0,NLD
-New Caledonia,0,NCL
-New Zealand,0,NZL
-Nicaragua,0,NIC
-Nigeria,0,NGA
-Niger,0,NER
-Niue,0,NIU
-Northern Mariana Islands,0,MNP
-Norway,0,NOR
-Oman,0,OMN
-Pakistan,1,PAK
-Palau,0,PLW
-Panama,0,PAN
-Papua New Guinea,0,PNG
-Paraguay,0,PRY
-Peru,0,PER
-Philippines,0,PHL
-Poland,0,POL
-Portugal,0,PRT
-Puerto Rico,0,PRI
-Qatar,0,QAT
-Romania,0,ROU
-Russia,0,RUS
-Rwanda,0,RWA
-Saint Kitts and Nevis,0,KNA
-Saint Lucia,0,LCA
-Saint Martin,0,MAF
-Saint Pierre and Miquelon,0,SPM
-Saint Vincent and the Grenadines,1,VCT
-Samoa,0,WSM
-San Marino,1,SMR
-Sao Tome and Principe,0,STP
-Saudi Arabia,1,SAU
-Senegal,0,SEN
-Serbia,0,SRB
-Seychelles,1,SYC
-Sierra Leone,0,SLE
-Singapore,0,SGP
-Sint Maarten,0,SXM
-Slovakia,0,SVK
-Slovenia,0,SVN
-Solomon Islands,0,SLB
-Somalia,0,SOM
-South Africa,0,ZAF
-South Sudan,0,SSD
-Spain,0,ESP
-Sri Lanka,1,LKA
-Sudan,0,SDN
-Suriname,0,SUR
-Swaziland,0,SWZ
-Sweden,0,SWE
-Switzerland,0,CHE
-Syria,0,SYR
-Taiwan,0,TWN
-Tajikistan,0,TJK
-Tanzania,0,TZA
-Thailand,0,THA
-Timor-Leste,0,TLS
-Togo,0,TGO
-Tonga,0,TON
-Trinidad and Tobago,0,TTO
-Tunisia,0,TUN
-Turkey,0,TUR
-Turkmenistan,0,TKM
-Tuvalu,1,TUV
-Uganda,0,UGA
-Ukraine,0,UKR
-United Arab Emirates,1,ARE
-United Kingdom,0,GBR
-United States,0,USA
-Uruguay,0,URY
-Uzbekistan,0,UZB
-Vanuatu,1,VUT
-Venezuela,0,VEN
-Vietnam,0,VNM
-Virgin Islands,0,VGB
-West Bank,0,WBG
-Yemen,0,YEM
-Zambia,0,ZMB
-Zimbabwe,1,ZWE
+Country,Ban,Code,Type of Ban
+Afghanistan,0,AFG,No Ban
+Albania,0,ALB,No Ban
+Algeria,0,DZA,No Ban
+American Samoa,0,ASM,No Ban
+Andorra,0,AND,No Ban
+Angola,0,AGO,No Ban
+Anguilla,0,AIA,No Ban
+Antigua and Barbuda,1,ATG,"Ban on Free Distribution, Ban on Import"
+Argentina,0,ARG,No Ban
+Armenia,0,ARM,No Ban
+Aruba,0,ABW,No Ban
+Australia,0,AUS,No Ban
+Austria,0,AUT,No Ban
+Azerbaijan,0,AZE,No Ban
+"""Bahamas, The""",0,BHM,No Ban
+Bahrain,0,BHR,No Ban
+Bangladesh,0,BGD,No Ban
+Barbados,0,BRB,No Ban
+Belarus,0,BLR,No Ban
+Belgium,0,BEL,No Ban
+Belize,0,BLZ,No Ban
+Benin,0,BEN,No Ban
+Bermuda,0,BMU,No Ban
+Bhutan,0,BTN,No Ban
+Bolivia,0,BOL,No Ban
+Bosnia and Herzegovina,0,BIH,No Ban
+Botswana,0,BWA,No Ban
+Brazil,0,BRA,No Ban
+British Virgin Islands,0,VGB,No Ban
+Brunei,0,BRN,No Ban
+Bulgaria,0,BGR,No Ban
+Burkina Faso,1,BFA,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Burma,0,MMR,No Ban
+Burundi,0,BDI,No Ban
+Cabo Verde,0,CPV,No Ban
+Cambodia,0,KHM,No Ban
+Cameroon,0,CMR,No Ban
+Canada,1,CAN,"Ban on Manufacture, Ban on Import"
+Cayman Islands,0,CYM,No Ban
+Central African Republic,0,CAF,No Ban
+Chad,0,TCD,No Ban
+Chile,0,CHL,No Ban
+China,1,CHN,Ban on Import
+Colombia,0,COL,No Ban
+Comoros,0,COM,No Ban
+"Congo, Democratic Republic of the",0,COD,No Ban
+"Congo, Republic of the",0,COG,No Ban
+Cook Islands,0,COK,No Ban
+Costa Rica,1,CRI,Ban on Use in Government Institutions
+Cote d'Ivoire,0,CIV,No Ban
+Croatia,0,HRV,No Ban
+Cuba,0,CUB,No Ban
+Curacao,0,CUW,No Ban
+Cyprus,0,CYP,No Ban
+Czech Republic,0,CZE,No Ban
+Denmark,0,DNK,No Ban
+Djibouti,0,DJI,No Ban
+Dominica,0,DMA,No Ban
+Dominican Republic,0,DOM,No Ban
+Ecuador,0,ECU,No Ban
+Egypt,0,EGY,No Ban
+El Salvador,0,SLV,No Ban
+Equatorial Guinea,0,GNQ,No Ban
+Eritrea,0,ERI,No Ban
+Estonia,0,EST,No Ban
+Ethiopia,0,ETH,No Ban
+Falkland Islands (Islas Malvinas),0,FLK,No Ban
+Faroe Islands,0,FRO,No Ban
+Fiji,1,FJI,Ban on Manufacture and Import on Plastic Bottles
+Finland,0,FIN,No Ban
+France,1,FRA,Ban on Free Distribution
+French Polynesia,0,PYF,No Ban
+Gabon,0,GAB,No Ban
+"Gambia, The",0,GMB,No Ban
+Georgia,0,GEO,No Ban
+Germany,0,DEU,No Ban
+Ghana,0,GHA,No Ban
+Gibraltar,0,GIB,No Ban
+Greece,0,GRC,No Ban
+Greenland,0,GRL,No Ban
+Grenada,0,GRD,No Ban
+Guam,0,GUM,No Ban
+Guatemala,0,GTM,No Ban
+Guernsey,0,GGY,No Ban
+Guinea-Bissau,0,GNB,No Ban
+Guinea,0,GIN,No Ban
+Guyana,1,GUY,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Haiti,1,HTI,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Honduras,0,HND,No Ban
+Hong Kong,0,HKG,No Ban
+Hungary,0,HUN,No Ban
+Iceland,0,ISL,No Ban
+India,0,IND,No Ban
+Indonesia,0,IDN,No Ban
+Iran,0,IRN,No Ban
+Iraq,0,IRQ,No Ban
+Ireland,0,IRL,No Ban
+Isle of Man,0,IMN,No Ban
+Israel,1,ISR,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Italy,1,ITA,"Ban on Manufacture, Ban on Import"
+Jamaica,0,JAM,No Ban
+Japan,0,JPN,No Ban
+Jersey,0,JEY,No Ban
+Jordan,0,JOR,No Ban
+Kazakhstan,0,KAZ,No Ban
+Kenya,0,KEN,No Ban
+Kiribati,0,KIR,No Ban
+"Korea, North",0,PRK,No Ban
+"Korea, South",1,KOR,Ban on Free Distribution
+Kosovo,0,KSV,No Ban
+Kuwait,0,KWT,No Ban
+Kyrgyzstan,0,KGZ,No Ban
+Laos,0,LAO,No Ban
+Latvia,0,LVA,No Ban
+Lebanon,0,LBN,No Ban
+Lesotho,0,LSO,No Ban
+Liberia,0,LBR,No Ban
+Libya,0,LBY,No Ban
+Liechtenstein,1,LIE,"Ban on Manufacture, Ban on Free Distribution"
+Lithuania,0,LTU,No Ban
+Luxembourg,0,LUX,No Ban
+Macau,0,MAC,No Ban
+Macedonia,0,MKD,No Ban
+Madagascar,0,MDG,No Ban
+Malawi,0,MWI,No Ban
+Malaysia,0,MYS,No Ban
+Maldives,0,MDV,No Ban
+Mali,0,MLI,No Ban
+Malta,1,MLT,"Ban on Manufacture, Ban on Import"
+Marshall Islands,1,MHL,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Mauritania,0,MRT,No Ban
+Mauritius,1,MUS,Ban on Free Distribution
+Mexico,0,MEX,No Ban
+"Micronesia, Federated States of",0,FSM,No Ban
+Moldova,0,MDA,No Ban
+Monaco,1,MCO,"Ban on Manufacture, Ban on Free Distribution"
+Mongolia,0,MNG,No Ban
+Montenegro,0,MNE,No Ban
+Morocco,0,MAR,No Ban
+Mozambique,0,MOZ,No Ban
+Namibia,0,NAM,No Ban
+Nepal,0,NPL,No Ban
+Netherlands,0,NLD,No Ban
+New Caledonia,0,NCL,No Ban
+New Zealand,0,NZL,No Ban
+Nicaragua,0,NIC,No Ban
+Nigeria,0,NGA,No Ban
+Niger,0,NER,No Ban
+Niue,0,NIU,No Ban
+Northern Mariana Islands,0,MNP,No Ban
+Norway,0,NOR,No Ban
+Oman,0,OMN,No Ban
+Pakistan,1,PAK,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Palau,0,PLW,No Ban
+Panama,0,PAN,No Ban
+Papua New Guinea,0,PNG,No Ban
+Paraguay,0,PRY,No Ban
+Peru,0,PER,No Ban
+Philippines,0,PHL,No Ban
+Poland,0,POL,No Ban
+Portugal,0,PRT,No Ban
+Puerto Rico,0,PRI,No Ban
+Qatar,0,QAT,No Ban
+Romania,0,ROU,No Ban
+Russia,0,RUS,No Ban
+Rwanda,0,RWA,No Ban
+Saint Kitts and Nevis,0,KNA,No Ban
+Saint Lucia,0,LCA,No Ban
+Saint Martin,0,MAF,No Ban
+Saint Pierre and Miquelon,0,SPM,No Ban
+Saint Vincent and the Grenadines,1,VCT,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Samoa,0,WSM,No Ban
+San Marino,1,SMR,Ban on Free Distribution
+Sao Tome and Principe,0,STP,No Ban
+Saudi Arabia,1,SAU,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Senegal,0,SEN,No Ban
+Serbia,0,SRB,No Ban
+Seychelles,1,SYC,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Sierra Leone,0,SLE,No Ban
+Singapore,0,SGP,No Ban
+Sint Maarten,0,SXM,No Ban
+Slovakia,0,SVK,No Ban
+Slovenia,0,SVN,No Ban
+Solomon Islands,0,SLB,No Ban
+Somalia,0,SOM,No Ban
+South Africa,0,ZAF,No Ban
+South Sudan,0,SSD,No Ban
+Spain,0,ESP,No Ban
+Sri Lanka,1,LKA,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Sudan,0,SDN,No Ban
+Suriname,0,SUR,No Ban
+Swaziland,0,SWZ,No Ban
+Sweden,0,SWE,No Ban
+Switzerland,0,CHE,No Ban
+Syria,0,SYR,No Ban
+Taiwan,0,TWN,No Ban
+Tajikistan,0,TJK,No Ban
+Tanzania,0,TZA,No Ban
+Thailand,0,THA,No Ban
+Timor-Leste,0,TLS,No Ban
+Togo,0,TGO,No Ban
+Tonga,0,TON,No Ban
+Trinidad and Tobago,0,TTO,No Ban
+Tunisia,0,TUN,No Ban
+Turkey,0,TUR,No Ban
+Turkmenistan,0,TKM,No Ban
+Tuvalu,1,TUV,"Ban on Free Distribution, Ban on Import"
+Uganda,0,UGA,No Ban
+Ukraine,0,UKR,No Ban
+United Arab Emirates,1,ARE,"Ban on Manufacture, Ban on Import"
+United Kingdom,0,GBR,No Ban
+United States,0,USA,No Ban
+Uruguay,0,URY,No Ban
+Uzbekistan,0,UZB,No Ban
+Vanuatu,1,VUT,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
+Venezuela,0,VEN,No Ban
+Vietnam,0,VNM,No Ban
+Virgin Islands,0,VGB,No Ban
+West Bank,0,WBG,No Ban
+Yemen,0,YEM,No Ban
+Zambia,0,ZMB,No Ban
+Zimbabwe,1,ZWE,"Ban on Manufacture, Ban on Free Distribution, Ban on Import"
